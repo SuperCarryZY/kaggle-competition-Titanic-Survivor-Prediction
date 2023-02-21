@@ -9,7 +9,17 @@ The competition is simple: use machine learning to create a model that predicts 
  
 ![image](https://user-images.githubusercontent.com/121896846/220229144-f8ae1288-2663-4349-9787-90935743b0e7.png)
   I achieved an accuracy rate of 0.7679 in the public ranking list, and ranked the top 20% of all Kagglers except for cheating. I am used to using colab for experiments,   but because it is an ipynb standard file, you can also use jupyter notebook.
-  
+ 
+ 
+ 
+ # Data
+*  Survived: if this passenage died or survived.
+* Pclass: It divides passante into different levels from one to three. 
+* SibSp:SibSp is the number of siblings or spouses of a person onboard.
+* Parch:It contained the number of parents or children each passenger was touring with.
+* Fare: The cost of a ticket.
+* Embarked:Southampton, Cherbourg, and Queenstown.
+
  # Procedure
   My data has gone through the following steps
   Exploratory data analysis with visualization function
