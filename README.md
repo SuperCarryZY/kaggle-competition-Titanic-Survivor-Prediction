@@ -1,3 +1,6 @@
+# Intro
+In this project, I used the best method I think to process data. There is still much room to improve the accuracy of 76%. If you have any suggestions for this, please leave a message! 
+
 # kaggle competition：Titanic Survivor Prediction
 The competition is simple: use machine learning to create a model that predicts which passengers survived the Titanic shipwreck.
 
