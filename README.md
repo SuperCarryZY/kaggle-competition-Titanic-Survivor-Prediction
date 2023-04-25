@@ -40,5 +40,5 @@ The competition is simple: use machine learning to create a model that predicts 
   
  ![image](https://user-images.githubusercontent.com/121896846/220230624-62fbe85c-763c-4578-8b8c-feff17f4c9d0.png)
  ## Conclusion
-  It is obvious that the random forest and the decision tree are overfitting.
+  The random forest and the decision tree are overfitting.
   After comparing the accuracy of KNN, LogisticRegression and Stochastic Gradient Percent, the logistic regression model gives me the highest accuracy
